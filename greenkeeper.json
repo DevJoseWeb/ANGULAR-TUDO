@@ -1,0 +1,29 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Angular6CRUD/package.json",
+        "Angular6CRUDTutorial/package.json",
+        "ShinyDex/app/package.json",
+        "ShinyDex/package.json",
+        "angular-material-search-select/ng-package.json",
+        "angular-material-search-select/package.json",
+        "angular-todo-app/package.json",
+        "angular6-example/package.json",
+        "angular6-material/package.json",
+        "backend/package.json",
+        "blog-apollo-graphql-angular-app/package.json",
+        "clienteBetha/package.json",
+        "dotnetcoreangular-to-azure/DotNetCoreAngularToAzure/package.json",
+        "frontend/package.json",
+        "mean-stack-angular6-crud-example/package.json",
+        "meat-app-final/package.json",
+        "ng-crm/package.json",
+        "ngx-materialize/lib/ng-package.json",
+        "ngx-materialize/lib/package.json",
+        "ngx-materialize/package.json",
+        "pony-pagination-app/package.json"
+      ]
+    }
+  }
+}
